@@ -1,0 +1,97 @@
+body{
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+}
+
+.menu{
+    padding: 30px;
+    display: flex ;
+    justify-content: space-around;
+
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(251, 251, 251);
+    font-family: 'Roboto', sans-serif;
+    border: 200px;
+    padding: 0px;
+}
+
+h4 {
+    font-size: 25px;
+    color: rgb(251, 251, 251);
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    font-size: 25px;
+    color: rgb(251, 251, 251);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h6 {
+    font-size: 25px;
+    color: rgb(251, 251, 251);
+    font-family: 'Roboto', sans-serif;
+}
+
+.grupo1 {
+    font-size: 20px;
+    color: rgb(251, 251, 251);
+}
+
+.grupo2 {
+    font-size: 20px;
+    color: rgb(200, 23, 23);
+}
+
+.grupo3 {
+    font-size: 20px;
+    color: rgb(200, 23, 23);
+}
+
+.grupo4 {
+    font-size: 20px;
+    color: rgb(200, 23, 23);
+    font-style: oblique;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+    
+}
+
+.parrafos {
+    background-image: url("./public/histori.jpg") ;
+    background-size: cover  ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h7 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+
+}
+
+.sorteo {
+    
+    display: flex;
+    justify-content: center;
+}
