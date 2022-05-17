@@ -2,7 +2,7 @@ body{
     background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
 }
 
-.menu{
+.menu {
     padding: 30px;
     display: flex ;
     justify-content: space-around;
@@ -43,7 +43,7 @@ h6 {
 
 .grupo2 {
     font-size: 20px;
-    color: rgb(200, 23, 23);
+    color: rgb(200, 23, 162);
 }
 
 .grupo3 {
