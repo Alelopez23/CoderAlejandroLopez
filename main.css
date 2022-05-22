@@ -1,4 +1,21 @@
+*{ margin: 0;
+padding: 0;
+font-family:sans-serif
+}
+
+.imagen {
+    width: 100%;
+overflow: hidden;
+}
+
+.links {
+    color: white;
+    outline: none;
+    text-decoration: none;
+}
+
 body{
+    width: 100%;
     background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
 }
 
@@ -91,7 +108,13 @@ h7 {
 }
 
 .sorteo {
-    
     display: flex;
     justify-content: center;
 }
+
+@media (max-width: 600px) {
+        .imagen img {
+        width: 250px;
+        }
+    }
+    
